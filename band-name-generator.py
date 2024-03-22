@@ -8,3 +8,6 @@ pet_name = input("What is the name of your pet?" + "\n")
 band_name = city + " " + pet_name 
 #5. Make sure the input cursor shows on a new line:
 print("Your band name is "+ band_name)
+age = input("What is your age? ")
+print(age)
+print("I'm confused")
